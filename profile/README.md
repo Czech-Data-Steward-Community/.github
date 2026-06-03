@@ -33,7 +33,7 @@ Jsme otevřeni všem, kteří mají zájem o data stewardship:
 
 ## Kontakt
 
-Pro více informací navštivte [EOSC.cz](https://www.eosc.cz/komunity/data-stewardi)
+Pro kontaktní a další informace navštivte [datasteward.cz](https://www.datasteward.cz/)
 
 ---
 
@@ -68,4 +68,4 @@ We are open to everyone interested in data stewardship:
 
 ### Contact
 
-For more information, visit [EOSC.cz](https://www.eosc.cz/komunity/data-stewardi)
+For communication purposes &  more information, visit [datasteward.cz](https://www.datasteward.cz/)
