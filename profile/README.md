@@ -1,6 +1,6 @@
 # Czech Data Steward Community
 
-Vítejte v české komunitě Data Stewardů! [Eng below]
+Vítejte v české komunitě Data Stewardů! **[Eng below]**
 
 ## O komunitě
 
